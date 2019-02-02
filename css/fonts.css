@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'oswald-bold';
+    src: url('../fonts/static/Oswald-Bold.ttf')
+}
+@font-face {
+    font-family: 'oswald-extra-light';
+    src: url('../fonts/static/Oswald-ExtraLight.ttf');
+
+}
+@font-face {
+    font-family: 'oswald-light';
+    src: url('../fonts/static/Oswald-Light.ttf');
+
+}
+@font-face {
+    font-family: 'oswald-regular';
+    src: url('../fonts/static/Oswald-Regular.ttf');
+
+}
+@font-face {
+    font-family: 'oswald-semi-bold';
+    src: url('../fonts/static/Oswald-SemiBold.ttf');
+
+}
+@font-face {
+    font-family: 'oswald';
+    src: url('../fonts/Oswald-VariableFont_wght.ttf');
+
+}
+@font-face {
+    font-family: 'oswald-medium';
+    src: url('../fonts/static/Oswald-Medium.ttf');
+
+}
+@font-face {
+    font-family: 'OpenSans-Light';
+    src: url('../fonts/OpenSans-Light.ttf');
+
+}
+@font-face {
+    font-family: 'OpenSans-Italic';
+    src: url('../fonts/OpenSans-Italic.ttf');
+}
+@font-face {
+    font-family: 'OpenSans-Bold';
+    src: url('../fonts/OpenSans-Bold.ttf');
+}
+@font-face {
+    font-family: 'OpenSans-Regular';
+    src: url('../fonts/OpenSans-Regular.ttf');
+}
+.openr {font-family:OpenSans-Regular }
+.openb {font-family:OpenSans-Bold }
+.openl {font-family:OpenSans-Light ;}
+.openi {font-family: OpenSans-Italic;}
+.oswald {font-family: oswald;}
+.obold {font-family: oswald-bold!important;}
+.osbold {font-family: oswald-semi-bold;}
+.omedium {font-family: oswald-medium;}
+.olight {font-family: oswald-light;}
+.oexlight {font-family: oswald-extra-light;}
+.oregular {font-family: oswald-regular;}
+.rem {font-size: 6rem;}
+.rem3 {font-size: 4rem!important}
+.rem6 {font-size: 6.3rem!important; }
